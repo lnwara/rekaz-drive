@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RekazDrive.Application/1.0.0": {
+        "dependencies": {
+          "RekazDrive.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RekazDrive.Application.dll": {}
+        }
+      },
+      "RekazDrive.Domain/1.0.0": {
+        "runtime": {
+          "RekazDrive.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RekazDrive.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RekazDrive.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

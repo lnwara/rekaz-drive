@@ -1,0 +1,51 @@
+@RekazDrive.WebApi_HostAddress = http://localhost:5000
+
+### 1. Login to get JWT token
+POST {{RekazDrive.WebApi_HostAddress}}/v1/auth/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin"
+}
+
+### 2. Store a blob (requires authentication)
+POST {{RekazDrive.WebApi_HostAddress}}/v1/blobs
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "id": "test-blob-1",
+  "data": "SGVsbG8gV29ybGQh"
+}
+
+### 3. Retrieve a blob (requires authentication)
+GET {{RekazDrive.WebApi_HostAddress}}/v1/blobs/test-blob-1
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### 4. Store another blob with different data
+POST {{RekazDrive.WebApi_HostAddress}}/v1/blobs
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "id": "test-blob-2",
+  "data": "VGhpcyBpcyBhIHRlc3QgZmlsZQ=="
+}
+
+### 5. Test invalid Base64 data (should return 400)
+POST {{RekazDrive.WebApi_HostAddress}}/v1/blobs
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "id": "invalid-blob",
+  "data": "invalid-base64-data!!!"
+}
+
+### 6. Test unauthorized access (should return 401)
+GET {{RekazDrive.WebApi_HostAddress}}/v1/blobs/test-blob-1
+
+### 7. Test non-existent blob (should return 404)
+GET {{RekazDrive.WebApi_HostAddress}}/v1/blobs/non-existent-blob
+Authorization: Bearer YOUR_JWT_TOKEN_HERE

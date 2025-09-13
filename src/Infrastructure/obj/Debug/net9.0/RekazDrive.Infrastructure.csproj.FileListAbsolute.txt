@@ -1,0 +1,17 @@
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Infrastructure.deps.json
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Infrastructure.dll
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Infrastructure.pdb
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Application.dll
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Domain.dll
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Application.pdb
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/bin/Debug/net9.0/RekazDrive.Domain.pdb
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.csproj.AssemblyReference.cache
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.AssemblyInfoInputs.cache
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.AssemblyInfo.cs
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDri.219733A1.Up2Date
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.dll
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/refint/RekazDrive.Infrastructure.dll
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/RekazDrive.Infrastructure.pdb
+/Users/noorshaker/Apps/Rekaz/src/Infrastructure/obj/Debug/net9.0/ref/RekazDrive.Infrastructure.dll

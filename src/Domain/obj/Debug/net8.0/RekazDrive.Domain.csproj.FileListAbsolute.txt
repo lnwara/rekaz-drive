@@ -1,0 +1,11 @@
+/Users/noorshaker/Apps/Rekaz/src/Domain/bin/Debug/net8.0/RekazDrive.Domain.deps.json
+/Users/noorshaker/Apps/Rekaz/src/Domain/bin/Debug/net8.0/RekazDrive.Domain.dll
+/Users/noorshaker/Apps/Rekaz/src/Domain/bin/Debug/net8.0/RekazDrive.Domain.pdb
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/RekazDrive.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/RekazDrive.Domain.AssemblyInfoInputs.cache
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/RekazDrive.Domain.AssemblyInfo.cs
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/RekazDrive.Domain.csproj.CoreCompileInputs.cache
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/RekazDrive.Domain.dll
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/refint/RekazDrive.Domain.dll
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/RekazDrive.Domain.pdb
+/Users/noorshaker/Apps/Rekaz/src/Domain/obj/Debug/net8.0/ref/RekazDrive.Domain.dll

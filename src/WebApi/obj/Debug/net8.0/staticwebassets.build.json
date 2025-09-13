@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "66MT5jQh9VtzRVbolqiSyP4vYd997+CdzQx2HkjxLAg=",
+  "Source": "RekazDrive.WebApi",
+  "BasePath": "_content/RekazDrive.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
